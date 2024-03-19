@@ -1,0 +1,68 @@
+LOCUS       SN89                    1886 bp    DNA     linear   UNA 18-MAR-2024
+DEFINITION  A new nucleotide sequence entered manually.
+ACCESSION   urn.local...5u-hgrzcx2
+VERSION     urn.local...5u-hgrzcx2
+KEYWORDS    .
+SOURCE      
+  ORGANISM  .
+FEATURES             Location/Qualifiers
+     misc_feature    1..32
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /standard_name="PR8 3' NCR"
+     CDS             33..1730
+                     /standard_name="A/Siena/10/1989 HA"
+     misc_feature    225..863
+                     /standard_name="head"
+     misc_feature    1653..1733
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /standard_name="homologous_Cterm"
+     misc_feature    1734..1737
+                     /standard_name="Defined Library Barcode"
+     misc_feature    1738..1745
+                     /standard_name="Defined Position Barcode"
+     misc_feature    1750..1761
+                     /standard_name="Random Mutation Barcode"
+     misc_feature    1762..1841
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /standard_name="packing_sequence"
+     misc_feature    1842..1886
+                     /note="Derived using Geneious Prime 2023.0.4 'Annotate
+                     from Database' based on nucleotide similarity"
+                     /standard_name="PR8 5' NCR"
+ORIGIN      
+        1 agcaaaagca ggggaaaata aaaacaacca aaatgaaagc aaaactacta gtcctgttat
+       61 gtgcatttac agctacagat gcagacacaa tatgtatagg ctaccatgcg aacaactcaa
+      121 ccgacactgt tgacacagta cttgagaaga acgtgacagt gacacactct gtcaacctac
+      181 ttgaggacag tcacaacgga aaactatgtc gactaaaagg aatagcccca ctacaattgg
+      241 gtaattgcag cattgccgga tggatcttag gaaacccaga atgcgaatca ctgttttcta
+      301 aggaatcatg gtcctacatt gcagaaacac caaactccga gaatggaaca tgttacccag
+      361 ggtatttcgc cgactatgag gaactgaggg agcaattgag ttcagtatca tcattcgaga
+      421 gattcgaaat attccccaaa gaaagctcat ggcccaacca caccgtaacc aaaggagtaa
+      481 cggcagcatg ctcccataat gggaaaagca gtttttacag aaatttgcta tggctgacgg
+      541 agaagaatgg cttgtaccca aatctgagca agtcctatgt aaacaacaaa gagaaagaag
+      601 tccttgtact atggggtgtt catcacccgt caaacatagg ggaccaaagg gccatctatc
+      661 atacagaaaa tgcttatgtg tctgtagtgt cttcacatta tagcaggaga ttcaccccag
+      721 aaatagcaaa aagacccaaa gtaagaggtc aagaaggaag aattaactac tactggactc
+      781 tgctggaacc cggggacaca ataatatttg aggcaaatgg aaatctaata gcgccatggt
+      841 atgctttcgc actgagtaga ggctttgggt caggaatcat cacctcaaac gcatcaatgg
+      901 atgaatgtga cgcgaagtgt caaacacccc agggagctat aaacagtagt cttcctttcc
+      961 agaatgtaca cccagtcaca ataggagagt gtccaaagta tgtcaggagt acaaaattaa
+     1021 ggatggttac aggactaagg aacatcccat ccgttcaatc cagaggtttg tttggagcca
+     1081 ttgccggttt cattgaaggg gggtggactg gaatgataga tggatggtat ggttatcatc
+     1141 atcaaaatga acaaggatct ggctatgctg cggatcaaaa aagcacacaa aatgccatta
+     1201 acgggattac aaacaaggtg aattctgtaa tcgagaaaat gaacactcaa ttcacagctg
+     1261 tgggcaaaga attcaacaaa ttagaaagaa ggatggaaaa cttaaataaa aaagttgatg
+     1321 atggatttct ggacatttgg acatataatg cagaattgtt ggttctactg gaaaatgaaa
+     1381 ggactttgga ttttcatgac tcaaatgtga agaatctgta tgagaaagta aaaagccaat
+     1441 taaagaataa tgccaaagaa ataggaaacg ggtgttttga attctaccac aagtgtaaca
+     1501 atgaatgcat ggaaagtgtg aaaaatggaa cttatgacta tccaaaatat tccgaggaat
+     1561 caaagttaaa cagggaaaaa attgatggag tgaaattgga atcaatggga gtctatcaga
+     1621 ttctggcgat ctactcaact gtcgccagtt cactggtcct gctcgtgtca ctgggagcca
+     1681 tcagcttctg gatgtgcagc aacggcagcc tccagtgtag gatttgcatt taannnnnnn
+     1741 nnnnnagctn nnnnnnnnnn ntggtgcttt tggtctccct gggggcaatc agtttctgga
+     1801 tgtgttctaa tggatctttg cagtgcagaa tatgcatctg agattagaat ttcagagata
+     1861 tgaggaaaaa cacccttgtt tctact
+//

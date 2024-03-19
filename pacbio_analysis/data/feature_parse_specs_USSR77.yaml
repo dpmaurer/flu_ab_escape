@@ -1,0 +1,52 @@
+USSR77:
+  query_clip5: 20
+  query_clip3: 100
+  plasmid5:
+    filter:
+      clip5: 20
+      mutation_nt_count: 10
+      mutation_op_count: null
+  termini5:
+    filter:
+      mutation_nt_count: 4
+      mutation_op_count: null
+  gene:
+    filter:
+      mutation_nt_count: 200
+      mutation_op_count: null
+    return: [mutations, accuracy]
+  nterm:
+    filter:
+      mutation_nt_count: 30
+      mutation_op_count: null
+    return: [mutations, accuracy]
+  mut_region:
+    filter:
+      mutation_nt_count: 100
+      mutation_op_count: null
+    return: [mutations, accuracy]
+  cterm:
+    filter:
+      mutation_nt_count: 130
+      mutation_op_count: null
+    return: [mutations, accuracy]
+  barcode:
+    filter:
+      mutation_nt_count: 0
+      mutation_op_count: null
+    return: [sequence, accuracy]
+  spacer:
+    filter:
+      mutation_nt_count: 4
+      mutation_op_count: null
+  termini3:
+    filter:
+      mutation_nt_count: 4
+      mutation_op_count: null
+  plasmid3:
+    filter:
+      clip3: 200
+      mutation_nt_count: 1000
+      mutation_op_count: null
+
+

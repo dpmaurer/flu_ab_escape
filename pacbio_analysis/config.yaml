@@ -1,0 +1,55 @@
+# config for analysis
+
+# most CPUs to ever use at once
+max_cpus: 8
+
+# amplicons sequenced by PacBio
+amplicons_USSR77: data/USSR77.gb
+amplicons_SN89: data/SN89.gb
+amplicons_SI06: data/SI06.gb
+amplicons_SYD21: data/SYD21.gb
+
+# how to parse the amplicon
+feature_parse_specs_USSR77: data/feature_parse_specs_USSR77.yaml
+feature_parse_specs_SN89: data/feature_parse_specs_SN89.yaml
+feature_parse_specs_SI06: data/feature_parse_specs_SI06.yaml
+feature_parse_specs_SYD21: data/feature_parse_specs_SYD21.yaml
+
+# list of PacBio sequencing runs linking barcodes to variants
+pacbio_runs: data/PacBio_runs.csv
+
+# positional barcode lists
+pos_bcs_USSR77: data/pos_bcs_USSR77.csv
+pos_bcs_SN89: data/pos_bcs_SN89.csv
+pos_bcs_SI06: data/pos_bcs_SI06.csv
+pos_bcs_SYD21: data/pos_bcs_SYD21.csv
+
+# output directories / files
+summary_dir: results/summary
+figs_dir: results/figures
+ccs_dir: results/ccs
+process_ccs_dir: results/process_ccs
+processed_ccs_file_USSR77: results/process_ccs/processed_ccs_USSR77.csv
+processed_ccs_file_SN89: results/process_ccs/processed_ccs_SN89.csv
+processed_ccs_file_SI06: results/process_ccs/processed_ccs_SI06.csv
+processed_ccs_file_SYD21: results/process_ccs/processed_ccs_SYD21.csv
+variants_dir: results/variants
+nt_variant_table_file_USSR77: results/variants/nucleotide_variant_table_USSR77.csv
+nt_variant_table_file_SN89: results/variants/nucleotide_variant_table_SN89.csv
+nt_variant_table_file_SI06: results/variants/nucleotide_variant_table_SI06.csv
+nt_variant_table_file_SYD21: results/variants/nucleotide_variant_table_SYD21.csv
+codon_variant_table_file_USSR77: results/variants/codon_variant_table_USSR77.csv
+codon_variant_table_file_SN89: results/variants/codon_variant_table_SN89.csv
+codon_variant_table_file_SI06: results/variants/codon_variant_table_SI06.csv
+codon_variant_table_file_SYD21: results/variants/codon_variant_table_SYD21.csv
+codon_variant_table_file_USSR77_single: results/variants/codon_variant_table_USSR77_single.csv
+codon_variant_table_file_USSR77_multi: results/variants/codon_variant_table_USSR77_multi.csv
+codon_variant_table_file_SN89_single: results/variants/codon_variant_table_SN89_single.csv
+codon_variant_table_file_SN89_multi: results/variants/codon_variant_table_SN89_multi.csv
+codon_variant_table_file_SI06_single: results/variants/codon_variant_table_SI06_single.csv
+codon_variant_table_file_SI06_multi: results/variants/codon_variant_table_SI06_multi.csv
+codon_variant_table_file_SYD21_single: results/variants/codon_variant_table_SYD21_single.csv
+codon_variant_table_file_SYD21_multi: results/variants/codon_variant_table_SYD21_multi.csv
+
+# max error rate in gene / barcode CCSs retained for consensus building
+max_error_rate: 0.00001

@@ -1,0 +1,15 @@
+﻿library,bg,run,ccs
+rep1,USSR77,A,data/m64408e_230603_035327.hifi_reads.bc1010--bc1010.bam
+rep2,USSR77,A,data/m64408e_230604_130039.hifi_reads.bc1012--bc1012.bam
+rep2,USSR77,B,data/m64408e_230605_220754.hifi_reads.bc1012--bc1012.bam
+rep1,USSR77,C,data/m64408e_231005_161422.hifi_reads.bc1010--bc1010.bam
+rep2,USSR77,C,data/m64408e_231005_161422.hifi_reads.bc1012--bc1012.bam
+rep1,SN89,A,data/m64408e_230601_183942.hifi_reads.bc1002--bc1002.bam
+rep2,SN89,A,data/m64408e_230604_130039.hifi_reads.bc1008--bc1008.bam
+rep2,SN89,B,data/m64408e_230605_220754.hifi_reads.bc1008--bc1008.bam
+rep1,SI06,A,data/m64408e_230604_130039.hifi_reads.bc1009--bc1009.bam
+rep1,SI06,B,data/m64408e_230605_220754.hifi_reads.bc1009--bc1009.bam
+rep2,SI06,A,data/m64408e_230603_035327.hifi_reads.bc1011--bc1011.bam
+rep1,SYD21,A,data/m64408e_230601_183942.hifi_reads.bc1001--bc1001.bam
+rep2,SYD21,A,data/m64408e_230604_130039.hifi_reads.bc1003--bc1003.bam
+rep2,SYD21,B,data/m64408e_230605_220754.hifi_reads.bc1003--bc1003.bam
