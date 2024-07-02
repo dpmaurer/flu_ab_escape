@@ -6,6 +6,8 @@ In these studies, we used imprinted antibody lineages and pan-H1 anti-influenza 
 
 Raw sequencing data from the imprinted antibody selections and fitness selections of USSR77, SN89, and SI06 viral libraries can be downloaded from BioProject PRJNA1056469.
 
+Raw sequencing data from the pan-H1 influenza antibody escape and fitness selections of the SYD21 viral library can be downloaded from BioProject PRJNA1130551. No antibody controls for the escape selections from pan-H1 influenza antibodies against USSR77, SN89, and SI06 can be found in BioProject PRJNA1056469.
+
 # Directories:
 
 ## library_designs
