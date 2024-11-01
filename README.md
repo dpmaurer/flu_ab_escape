@@ -1,12 +1,12 @@
-# Influenza virus escape from imprinted antibody lineages and pan-H1 antibodies
+# Influenza virus escape from imprinted antibody lineages and broad H1 antibodies
 
 Please note that we used large pieces of code from Jesse Bloom's lab at repositories found [here](https://github.com/jbloomlab/SARS-CoV-2-RBD_DMS_variants) and [here](https://github.com/dms-vep/dms-vep-pipeline) as well as dms_tools2 and dms_variants found [here](https://jbloomlab.github.io/dms_tools2/) and [here](https://jbloomlab.github.io/dms_variants). I highly recommend referring to these repositories and documentation for more detailed descriptions of the code.
 
-In these studies, we used imprinted antibody lineages and pan-H1 anti-influenza antibodies to select for viral escape using DMS libraries covering the influenza HA head in multiple strains. For imprinted antibody lineages, we used both the inferred unmuated common ancestor (UCA) and mature antibodies. Here, we provide the library designs, Jupyter notebooks used for sequencing analyses, outputs used in generating figures for publication.
+In these studies, we used imprinted antibody lineages and broad H1 anti-influenza antibodies to select for viral escape using DMS libraries covering the influenza HA head in multiple strains. For imprinted antibody lineages, we used both the inferred unmuated common ancestor (UCA) and mature antibodies. Here, we provide the library designs, Jupyter notebooks used for sequencing analyses, outputs used in generating figures for publication.
 
 Raw sequencing data from the imprinted antibody selections and fitness selections of USSR77, SN89, and SI06 viral libraries can be downloaded from BioProject PRJNA1056469.
 
-Raw sequencing data from the pan-H1 influenza antibody escape and fitness selections of the SYD21 viral library can be downloaded from BioProject PRJNA1130551. No antibody controls for the escape selections from pan-H1 influenza antibodies against USSR77, SN89, and SI06 can be found in BioProject PRJNA1056469.
+Raw sequencing data from the broad H1 influenza antibody escape and fitness selections of the SYD21 viral library can be downloaded from BioProject PRJNA1130551. No antibody controls for the escape selections from broad H1 influenza antibodies against USSR77, SN89, and SI06 can be found in BioProject PRJNA1056469.
 
 # Directories:
 
